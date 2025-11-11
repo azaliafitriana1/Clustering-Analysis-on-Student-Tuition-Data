@@ -1,2 +1,2 @@
 # Clustering-Analysis-on-Student-Tuition-Data
-Applied and compared clustering algorithms (DBSCAN, FCM, PCM, FPCM, MFPCM) using Silhouette Coefficient and BSS/TSS ratio to identify the most representative segmentation.
+Applied and compared clustering algorithms (DBSCAN, FCM, PCM, FPCM, MFPCM) using Silhouette Coefficient and BSS/TSS ratio to identify the most representative segmentation. Calculated weighted UKT scores based on economic variables to define and profile each student segment. The result, FCM achieved the best performance (Silhouette 0.34; BSS/TSS 0.75), producing clearer tuition group boundaries and supporting fairer policy formulation.
